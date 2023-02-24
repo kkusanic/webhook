@@ -1,0 +1,7 @@
+/var/www/webhook/webhook
+/var/www/webhook/appsettings.Development.json
+/var/www/webhook/appsettings.json
+/var/www/webhook/webhook.dll
+/var/www/webhook/webhook.deps.json
+/var/www/webhook/webhook.runtimeconfig.json
+/var/www/webhook/webhook.pdb

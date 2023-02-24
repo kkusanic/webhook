@@ -1,0 +1,7 @@
+/home/kkusanic/development/webhook/bin/Release/net7.0/publish/webhook
+/home/kkusanic/development/webhook/bin/Release/net7.0/publish/appsettings.Development.json
+/home/kkusanic/development/webhook/bin/Release/net7.0/publish/appsettings.json
+/home/kkusanic/development/webhook/bin/Release/net7.0/publish/webhook.dll
+/home/kkusanic/development/webhook/bin/Release/net7.0/publish/webhook.deps.json
+/home/kkusanic/development/webhook/bin/Release/net7.0/publish/webhook.runtimeconfig.json
+/home/kkusanic/development/webhook/bin/Release/net7.0/publish/webhook.pdb
