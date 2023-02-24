@@ -8,6 +8,18 @@ public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
 
+
+    [Route("[controller]")]
+    public class WebhookController : ControllerBase
+    {
+        [HttpPost]
+        public IActionResult HandleWebhook([FromBody] string data)
+        {
+            // Do something with the data received in the webhook
+            return Ok("Webhook received");
+        }
+    }
+
     public HomeController(ILogger<HomeController> logger)
     {
         _logger = logger;
